@@ -2,11 +2,13 @@
 <div align="rigth">
  ⚡I started my programming journey in June 2021!
  
- 🥋I grew up practicing Brazilian Jiu Jitsu and Judo, being 22 years of practice and dedication! 
+ <div align="rigth"> 🥋I grew up practicing Brazilian Jiu Jitsu and Judo, being 22 years of practice and dedication! 
 
-
+ <div align="rigth">🌍 I’m currently living in Italy  
+  <div align="rigth"> 😎 My hobbies are Games🎮 , RPG🐉 and quality time with my wife 👰‍♀️.
    
-<div align="rigth">
+
+   <div align="rigth">
 
   <a href="https://github.com/antoniofortisneto">
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=antoniofortisneto&theme=blue-green"/>

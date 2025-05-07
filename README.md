@@ -4,7 +4,7 @@
  
  <div align="rigth"> 🥋I grew up practicing Brazilian Jiu Jitsu and Judo, being 22 years of practice and dedication! 
 
- <div align="rigth">🌍 I’m currently living in Italy  
+ <div align="rigth">🌍 I’m currently living in Germany  
   <div align="rigth"> 😎 My hobbies are Games🎮 , RPG🐉 and quality time with my wife 👰‍♀️.
    
 
